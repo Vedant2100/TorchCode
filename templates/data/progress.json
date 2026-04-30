@@ -1,0 +1,26 @@
+{
+  "causal_attention": {
+    "status": "solved",
+    "solved_at": "2026-04-28T16:22:58.865642",
+    "best_time": 0.2398019980000754,
+    "attempts": 1
+  },
+  "relu": {
+    "status": "solved",
+    "attempts": 5,
+    "solved_at": "2026-04-28T16:37:00.530266",
+    "best_time": 0.6854050040001312
+  },
+  "softmax": {
+    "status": "solved",
+    "attempts": 2,
+    "solved_at": "2026-04-28T16:42:52.096719",
+    "best_time": 0.0045714159996350645
+  },
+  "linear": {
+    "status": "solved",
+    "solved_at": "2026-04-28T16:56:17.190331",
+    "best_time": 0.08445470900096552,
+    "attempts": 1
+  }
+}
