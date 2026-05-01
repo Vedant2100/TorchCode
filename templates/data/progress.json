@@ -1,9 +1,9 @@
 {
   "causal_attention": {
     "status": "solved",
-    "solved_at": "2026-04-28T16:22:58.865642",
-    "best_time": 0.2398019980000754,
-    "attempts": 1
+    "solved_at": "2026-04-29T21:41:50.538009",
+    "best_time": 0.1320755569904577,
+    "attempts": 3
   },
   "relu": {
     "status": "solved",
@@ -22,5 +22,17 @@
     "solved_at": "2026-04-28T16:56:17.190331",
     "best_time": 0.08445470900096552,
     "attempts": 1
+  },
+  "layernorm": {
+    "status": "solved",
+    "solved_at": "2026-04-29T21:54:06.043195",
+    "best_time": 0.03512968098220881,
+    "attempts": 1
+  },
+  "attention": {
+    "status": "solved",
+    "attempts": 3,
+    "solved_at": "2026-04-29T22:10:56.360624",
+    "best_time": 0.008126337022986263
   }
 }
